@@ -35,7 +35,7 @@ body{
 	padding: 20px 0;
 }
 
-.left .img_holder img{
+.right .img_holder img{
 	width: 202px;
 	height: 190px;
 	border-radius: 100px;
@@ -199,9 +199,9 @@ body{
 
 .header{
 	background: #292b2f;
-	padding: 15px 30px;
+	padding: 250px 40px;
 	color: #fff;
-	height: 240px;
+	height: 140px;
 }
 
 .header .name{
